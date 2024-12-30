@@ -1,9 +1,9 @@
 # Foro Hub
 
-![Portada del Proyecto](https://www.sydle.com/blog/assets/post/biblioteca-digital-63e521409e3c274f1050e336/capa%20biblioteca%20digital.png)
+![Portada del Proyecto](http://elearningmasters.galileo.edu/wp-content/uploads/2016/12/Ventajas-y-retos-del-uso-de-foros-virtuales-en-el-aprendizaje-virtual.png)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/usuario/forohub)
-![GitHub release (last Commit)](https://img.shields.io/badge/last_commit-15%2F12%2F2024-brightgreen)
+![GitHub release (last Commit)](https://img.shields.io/badge/last_commit-30%2F12%2F2024-brightgreen)
 ![GitHub issues](https://img.shields.io/github/issues/usuario/forohub)
 
 ## Índice

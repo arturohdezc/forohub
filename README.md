@@ -176,6 +176,11 @@ El proyecto utiliza las siguientes dependencias principales:
    - Endpoint: `POST /auth/login`
      - Autenticación del usuario.
      - Devuelve un token Bearer para realizar solicitudes autenticadas.
+    
+**Demostación de las funciones**
+
+  [![Foro Hub](https://img.freepik.com/vector-gratis/diseno-maqueta-plantilla-reproductor-video-negro_1017-36895.jpg)](https://drive.google.com/file/d/1YRnPsDw9IMCuEne8l0UCAgqeFhNJjXcn/view?usp=sharing)
+
 
 ## Reglas de Negocio
 

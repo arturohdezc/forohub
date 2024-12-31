@@ -18,18 +18,6 @@
 - [Desarrolladores](#desarrolladores)
 - [Conclusiones](#conclusiones)
 
-## Índice
-
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Requisitos Previos](#requisitos-previos)
-- [Configuración del Proyecto](#configuración-del-proyecto)
-- [Dependencias](#dependencias)
-- [Funciones Implementadas](#funciones-implementadas)
-- [Reglas de Negocio](#reglas-de-negocio)
-- [Estado del Proyecto](#estado-del-proyecto)
-- [Desarrolladores](#desarrolladores)
-- [Conclusiones](#conclusiones)
-
 ## Descripción del Proyecto
 
 **Foro Hub** es una API REST desarrollada en Java con Spring Boot que permite a los usuarios gestionar tópicos de discusión. El proyecto se centra en las operaciones básicas de CRUD (Crear, Leer, Actualizar, Eliminar) para tópicos, siguiendo las mejores prácticas del modelo REST.

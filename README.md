@@ -1,6 +1,6 @@
 # Foro Hub
 
-![Portada del Proyecto](http://elearningmasters.galileo.edu/wp-content/uploads/2016/12/Ventajas-y-retos-del-uso-de-foros-virtuales-en-el-aprendizaje-virtual.png)
+![Portada del Proyecto](https://drive.google.com/uc?id=1mva921QRVg45qMTZNiXB-XwyYugZGC_q)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/usuario/forohub)
 ![GitHub release (last Commit)](https://img.shields.io/badge/last_commit-30%2F12%2F2024-brightgreen)
